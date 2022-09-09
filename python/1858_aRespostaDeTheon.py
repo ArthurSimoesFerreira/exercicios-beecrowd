@@ -1,0 +1,5 @@
+N = int(input())
+porradas = list(map(int, input().split()))
+min = min(porradas)
+indice = porradas.index(min)
+print(indice+1)
