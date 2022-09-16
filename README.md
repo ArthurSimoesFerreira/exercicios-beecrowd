@@ -1,4 +1,4 @@
 # exercicios-beecrowd
-Todos os meus exercícios feitos no site beecrowd em PYTHON
+Todos meus exercícios feitos no beecrowd em PYTHON
 
 All exercises completed on beecrowd with PYTHON
